@@ -1,5 +1,5 @@
 package ru.frigesty.tests.domain;
 
 public enum Locale {
-    ru, ua, en
+    RU, UA, EN
 }
